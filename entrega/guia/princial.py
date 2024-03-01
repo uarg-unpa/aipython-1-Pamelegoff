@@ -1,1 +1,6 @@
 print("Taller de AIPython P1 E2")
+print()
+print("Hola", "soy", "Franco")
+print("Soy","Pamela",sep="*")
+print("Arroz", "con","leche", end="?")
+print("Soy otra linea")
